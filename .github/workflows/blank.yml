@@ -1,0 +1,32 @@
+    </li>
+    <li class='item' style="background-image: url('https://i.postimg.cc/rmksBC6w/1720411837059.jpg')">
+      <div class='content'>
+        <h2 class='title'>"When i Lost I find You.."</h2>
+        <p class='description'>
+          "Do you have a map? Because I just keep getting lost in your eyes every time I see you. 🌟"
+        </p>
+        <button>Read More</button>
+      </div>
+    </li>
+    <li class='item' style="background-image: url('https://i.postimg.cc/rmksBC6w/1720411837059.jpg')">
+      <div class='content'>
+        <h2 class='title'>"You are cute .."</h2>
+        <p class='description'>
+         "If you were a cat, you'd purr-fectly steal my heart. 
+        </p>
+        <button>Read More</button>
+      </div>
+    </li>
+  
+    
+  </ul>
+  <nav class='nav'>
+    <ion-icon class='btn prev' name="arrow-back-outline"></ion-icon>
+    <ion-icon class='btn next' name="arrow-forward-outline"></ion-icon>
+  </nav>
+</main>
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<!-- partial -->
+  <script  src="./script.js"></script>
